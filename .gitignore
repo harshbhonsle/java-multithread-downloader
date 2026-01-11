@@ -1,2 +1,27 @@
+# IntelliJ IDEA
 .idea/
+*.iml
+*.iws
+out/
+
+# Compiled Java class files
 *.class
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Backup files
+*~
+*.bak
+
+# Maven / Gradle (if you use them in future)
+target/
+build/
