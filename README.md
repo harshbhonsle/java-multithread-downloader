@@ -71,9 +71,11 @@ Thread-1 finished downloading bytes 1310720 to 2621439
 ...
 Download completed successfully
 
-2) ![img.png](img.png)
+
 
 ```
+## Screenshot
+![img.png](img.png)
 
 ## Future Improvement
 - Add command-line arguments for URL and output file name.
