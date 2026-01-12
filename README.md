@@ -78,9 +78,10 @@ Download completed successfully
 ![img.png](img.png)
 
 ## Future Improvement
-- Add command-line arguments for URL and output file name.
-- Support HTTPS with custom SSL handling.
-- Add progress bar and percentage completion.
-- Resume interrupted downloads.
+- [ ] Add command-line arguments for URL and output file name
+- [ ] Support HTTPS with custom SSL handling
+- [ ] Add progress bar and percentage completion
+- [ ] Resume interrupted downloads
+
 
 ----
